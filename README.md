@@ -18,6 +18,10 @@ To start a new game, press Enter or click on the Start button.  To reset, click 
 
 To play, check out http://tifsheline.github.io/FrozUNO.
 
+
+![frozuno screenshot](https://cloud.githubusercontent.com/assets/20602404/18069502/77c0c4ba-6dfc-11e6-9875-aa28c3bef162.png)
+
+
 ## Development Process
 
 Techonologies Used: HTML / CSS / Javascript + Jquery
